@@ -77,15 +77,6 @@ Sistema automatizado que monitora preços diariamente, mantém histórico em SQL
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rothbard212&show_icons=true&theme=default&hide_title=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rothbard212&layout=compact" width="35%" />
-</p>
-
----
-
 ## 📫 Contato
 
 <p>
@@ -93,4 +84,5 @@ Sistema automatizado que monitora preços diariamente, mantém histórico em SQL
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
