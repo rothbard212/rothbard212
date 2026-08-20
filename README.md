@@ -50,9 +50,11 @@ Sistema automatizado que monitora preços diariamente, mantém histórico em SQL
 </td>
 <td width="50%" valign="top">
 
-<br>
+### 🧾 [Leitor de Notas Fiscais com IA](https://github.com/rothbard212/Leitor-de-notas-fiscais)
 
-*Próximo projeto do portfólio em andamento — Leitor de Notas Fiscais com IA*
+Extrai dados estruturados de notas fiscais (PDF nativo, PDF escaneado ou foto de recibo) usando IA multimodal local (Ollama + Qwen2.5-VL) ou em nuvem. Detecção automática de tipo de arquivo, retry com back-off, parsing tolerante de JSON e persistência em SQLite — com testes automatizados cobrindo todo o pipeline, incluindo mock de chamadas de IA.
+
+`Python` `Ollama` `pdfplumber` `SQLite` `pytest`
 
 </td>
 </tr>
