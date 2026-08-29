@@ -58,6 +58,20 @@ Extrai dados estruturados de notas fiscais (PDF nativo, PDF escaneado ou foto de
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📅 [Agendador](https://github.com/rothbard212/Agendador)
+
+Sistema de agendamento genérico (barbearia/consultório) com múltiplos profissionais, suporte a fuso horário e proteção real contra conflito de horário sob concorrência — validado com um teste de condição de corrida usando threads reais. Todo horário armazenado em UTC, convertido apenas na exibição.
+
+`Python` `SQLite` `zoneinfo` `threading` `pytest`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
@@ -86,5 +100,4 @@ Extrai dados estruturados de notas fiscais (PDF nativo, PDF escaneado ou foto de
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 
