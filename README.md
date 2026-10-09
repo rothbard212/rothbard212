@@ -70,6 +70,12 @@ Sistema de agendamento genérico (barbearia/consultório) com múltiplos profiss
 </td>
 <td width="50%" valign="top">
 
+### 📦 [Painel de Estoque](https://github.com/rothbard212/painel-estoque)
+
+API REST de controle de estoque B2B para distribuidora (Spring Boot, PostgreSQL, JWT). Lock otimista com retry automático validado por um teste de concorrência real com threads, recebimento de pedidos que movimenta o estoque, rollback transacional e 23 testes automatizados.
+
+`Java` `Spring Boot` `PostgreSQL` `JWT` `JUnit` `Mockito`
+
 </td>
 </tr>
 </table>
@@ -100,4 +106,3 @@ Sistema de agendamento genérico (barbearia/consultório) com múltiplos profiss
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
