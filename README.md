@@ -78,6 +78,20 @@ API REST de controle de estoque B2B para distribuidora (Spring Boot, PostgreSQL,
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 [Catraca Financeira](https://github.com/rothbard212/catraca-financeira)
+
+Checkout de e-commerce integrado ao Mercado Pago. Webhooks com validação de assinatura HMAC, idempotência garantida por constraint no banco, máquina de estados de pagamento e rollback quando o gateway falha. Validado em sandbox, incluindo o replay de uma notificação real.
+
+`Java` `Spring Boot` `PostgreSQL` `Mercado Pago` `Resilience4j` `JUnit` `Mockito`
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 ---
